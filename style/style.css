@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'League Gothic'; 
+    src: url("../fonts/LeagueGothicRegular.woff") format("woff");
+    src: url("../fonts/LeagueGothicRegular.ttf") format("truetype");            
+    /*src: url("../fonts/LeagueGothicRegular.eot") format("embedded-opentype"); */               
+    font-weight: normal;
+    font-style: normal;
+}
+
 *{
 	margin: 0;
 	padding: 0;
@@ -64,7 +73,7 @@ header{
 }
 
 .menu__item_link__1{
-	margin-right: 2.2em;
+	margin-right: 2.1em;
 }
 
 .menu__item_link__2{
@@ -80,7 +89,7 @@ header{
 }
 
 .menu__item_link__5{
-	margin-right: 2.2em;
+	margin-right: 2em;
 }
 
 .menu__item_link--hover:hover{
@@ -90,14 +99,14 @@ header{
 .slider{
 	height: 400px;	
     background: rgba(0,0,0,0.2);   
-    margin-top: 159px;         
+    margin-top: 161px;         
 }
 
 .slider__text{
 	width: 54%;
 	height: 242px;	
 	vertical-align: top;
-	margin-top: 71px;	
+	margin-top: 74px;	
 	overflow: hidden;
 	float: left;
 }
@@ -431,7 +440,7 @@ header{
     line-height: 34px;
 	margin: 0;
 	padding: 0;	
-	padding-top: 2px;	
+	padding-top: 4px;	
 	float: none;
 
 }
