@@ -2,7 +2,7 @@
     font-family: 'League Gothic'; 
     src: url("../fonts/LeagueGothicRegular.woff") format("woff");
     src: url("../fonts/LeagueGothicRegular.ttf") format("truetype");            
-    /*src: url("../fonts/LeagueGothicRegular.eot") format("embedded-opentype"); */               
+    /*src: url("../fonts/LeagueGothicRegular.eot") format("embedded-opentype");*/                
     font-weight: normal;
     font-style: normal;
 }
