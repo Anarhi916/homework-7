@@ -1,9 +1,9 @@
 @media screen and (max-width: 960px) {
 
 .content{
-	width: 100%;
+	min-width: 100%;
 	padding-left: 2%;
-	padding-right: 2%;
+	padding-right: 2%;	
 }
 
 .menu__link_1{
@@ -352,7 +352,7 @@ header{
 }
 
 .about__item--music{
-	margin-right: 1%;
+	margin-right: 2%;
 }
 
 .articles{
